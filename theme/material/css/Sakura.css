@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+.menu-scroll{
+	background-color:rgba(255,255,255,1);
+}
+
+.tab-nav .nav>li>.a, .tab-nav .nav>li>a {
+	color:#ffa3a3;;
+}
+
+.ui-footer{
+	background-color: rgba(255,255,255,0);
+    border-top:none;
+}
+
+.container marquee{
+	color:#FFF;
+}
+
+.clearfix{
+	background-color: rgba(255,255,255,1);
+    border-radius: 5px;
+    padding: 0px 20px 0px 20px;
+    margin: auto;
+    max-width: 92%;
+}
+
+@media only screen and (min-width: 992px){
+  .page-orange{
+    background-image: url(https://ws1.sinaimg.cn/large/006Bk6Fzgy1fyhw6lano6j305k05kglp.jpg)!important;
+  }	
+}
+
+.table-responsive{
+	border-radius: 5px;
+}
